@@ -1,0 +1,7 @@
+mcp
+python-dotenv
+langchain-core
+pydantic
+sqlalchemy
+pymongo
+langchain-google-genai
